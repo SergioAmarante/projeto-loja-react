@@ -1,0 +1,55 @@
+#produtos{
+    width: 90%;
+    margin: auto;
+    padding: 35px;
+  }
+  .categorias {
+    width: 25%;
+    text-align: left;
+    float: left;
+  }
+  .produto{
+    float: right;
+    width: 75%;
+    text-align: center;
+  }
+  .produto{
+    float: left;
+    width: 25%;
+    height: 320px;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    margin-left: 40px;
+    
+    
+  }
+  .produto img{
+    width: 170px;
+    padding: 3px;
+  }
+  .produto h2 {
+    font-size: 14px;
+    margin-left: 30px;
+  }
+  .produto span.valor {
+    font-size: 14px;
+    color:midnightblue ;
+    text-decoration: line-through;
+    display: block;
+  }
+.produto span.promo  {
+    font-size: 14px; color: mediumvioletred;
+  }
+  #listaLinha {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    cursor:pointer;
+}
+.lisP{
+    padding: 10px;
+}
+
+
+  

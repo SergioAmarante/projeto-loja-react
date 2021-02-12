@@ -1,0 +1,9 @@
+#listaLinha {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    cursor:pointer;
+}
+.lisP{
+    padding: 10px;
+}

@@ -1,0 +1,8 @@
+.menu{
+    background-color: #342570;
+    border: 2px solid black;
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-around;
+    align-items: center;
+}

@@ -1,0 +1,10 @@
+.formMensagem div h1 {
+    text-align: center;
+    color:rgb(61, 18, 160);
+}
+.formMensagem img {
+  align-items: center;
+  display:flex; 
+  text-align: center;
+  margin: 0 auto;
+}
